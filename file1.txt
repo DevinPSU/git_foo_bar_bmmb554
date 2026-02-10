@@ -1,8 +1,4 @@
-This
-is
-a 
-file
-Just a file. 
+This is file1 in the dev branch
 git status
 git add file1.txt
 git status
