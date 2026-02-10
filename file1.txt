@@ -10,3 +10,4 @@ git commit -m "changed file1.txt"
 git push 
 git log --oneline
 git revert hexcode of file to revert changes BEFORE push. 
+git branch name creates a branch. 
