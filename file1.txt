@@ -9,3 +9,4 @@ git revert hexcode #of file to revert changes BEFORE push.
 git branch name #creates a branch. 
 git branch #shows which branch you are in. 
 git checkout #branchname changes your current location to the new branch. 
+git diff hexcode1 hexcode2 
