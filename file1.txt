@@ -2,3 +2,8 @@ This
 is
 a 
 file
+Just a file. 
+git status
+git add file1.txt
+git status
+git commit -m "changed file1.txt"
